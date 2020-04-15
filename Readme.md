@@ -1,4 +1,4 @@
-# Group 3 RHBP workspace
+# Applied AI-TU Berlin RHBP workspace
 
 This repository is based on the mapc_rhbp_example repo. 
 Requirements:
